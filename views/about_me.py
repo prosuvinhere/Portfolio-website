@@ -45,7 +45,25 @@ st.write("\n")
 st.subheader("📚Publication & 🏅Certification", anchor=False)
 st.write(
     """
-    - AWS Certified Solutions Architect – Associate | [Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/5a537ec94e504bdfb0009ed23ff7390e)
     - A comparative analysis of Web 3.0, Web 2.0, and Web 1.0: evolution and implications | [Research Paper](https://www.inderscienceonline.com/doi/10.1504/IJLC.2025.143530)
-    """,
+    - AWS Certified Solutions Architect – Associate | [Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/5a537ec94e504bdfb0009ed23ff7390e)
+    - NPTEL Entrepreneurship | IIT Madras | [Certificate](https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/110/noc23-mg74/Course/NPTEL23MG74S74510399320410893.pdf)
+    - NPTEL Forests and their Management | IIT Kanpur | [Certificate](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/102/noc24-bt23/Course/NPTEL24BT23S56980118630759409.pdf)
+    - NPTEL Wild Life Ecology | IIT Kanpur | [Certificate](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/102/noc24-bt59/Course/NPTEL24BT59S205381087604423167.pdf)
+
+    """
+)
+
+#---Achievements---
+st.write("\n")
+st.subheader("🏆Achievement & 🛠️Responsibility", anchor=False)
+st.write(
+    """
+    - Cracked the highest package offered by Deloitte USI at VIT Vellore
+    - Maharashtra Science Talent Search Exam (MSTSE) | 2019 | 59th Rank
+    - VIT Cultural Fest (Rivera '23) | GuestCare | Appointed to manage 10+ international students
+    - VIT Cultural Fest (Rivera '23) | Sports | Organized 50+ sports events
+    - VIT Cultural Fest (Rivera '23) | Finance & Stalls | Handled event finances and 100+ stall operations
+    - VIT Cultural Fest (Rivera ’23) | Sponsorship | Secured 5+ sponsors generating over ₹1.5L+
+    """
 )
