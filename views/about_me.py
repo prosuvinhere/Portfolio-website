@@ -64,6 +64,6 @@ st.write(
     - VIT Cultural Fest (Rivera '23) | GuestCare | Appointed to manage 10+ international students
     - VIT Cultural Fest (Rivera '23) | Sports | Organized 50+ sports events
     - VIT Cultural Fest (Rivera '23) | Finance & Stalls | Handled event finances and 100+ stall operations
-    - VIT Cultural Fest (Rivera ’23) | Sponsorship | Secured 5+ sponsors generating over ₹1.5L+
+    - VIT Cultural Fest (Rivera ’25) | Sponsorship | Secured 5+ sponsors generating over ₹1.5L+
     """
 )
