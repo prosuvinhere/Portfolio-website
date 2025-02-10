@@ -5,7 +5,7 @@ import streamlit as st
 about_page = st.Page(
     "views/about_me.py",
     title="Suvin Singh",
-    icon="😎",
+    icon="👀",
     default=True,
 )
 # project_1_page = st.Page(
