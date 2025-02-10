@@ -34,8 +34,8 @@ st.subheader("💼Experience & 🎓Education", anchor=False)
 st.write(
     """
     - Data Analyst | Deloitte USI
-    - ML Developer | Prorigo
-    - LLM Developer | Toshiba Mitsubishi-EIC
+    - Python Developer | Prorigo
+    - ML Developer | Toshiba Mitsubishi-EIC
     - Computer Science | B.Tech | VIT Vellore
     """
 )
